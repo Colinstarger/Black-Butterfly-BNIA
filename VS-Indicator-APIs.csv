@@ -1,0 +1,216 @@
+Indicator Number,Indicator,ShortName,Section,API
+1,Total Population,tpopXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Tpop/FeatureServer
+2,Total Male Population,maleXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Male/FeatureServer
+3,Total Female Population,femaleXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Female/FeatureServer
+4,Percent of Residents - Black/African-American (Non-Hispanic),paaXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Paa/FeatureServer
+5,Percent of Residents - White/Caucasian (Non-Hispanic),pwhiteXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Pwhite/FeatureServer
+6,Percent of Residents - Asian (Non-Hispanic),pasiXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Pasi/FeatureServer
+7,Percent of Residents - Two or More Races (Non-Hispanic),p2moreXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/P2more/FeatureServer
+8,"Percent of Residents - All Other Races (Hawaiian/ Pacific Islander, Alaskan/ Native American Other Race) (Non-Hispanic)",ppacXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Ppac/FeatureServer
+9,Percent of Residents - Hispanic,phispXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Phisp/FeatureServer
+10,Racial Diversity Index,racdivXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Racdiv/FeatureServer
+11,Percent of Population Under 5 Years old,age5_XX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Age5_/FeatureServer
+12,Percent of Population 5-17 Years old,age18_XX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Age18_/FeatureServer
+13,Percent of Population 18-24 Years old,age24_XX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Age24_/FeatureServer
+14,Percent of Population 25-64 Years old,age64_XX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Age64_/FeatureServer
+15,Percent of Population 65 Years and over,age65_XX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Age65_/FeatureServer
+16,Total Number of Households,hhsXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hhs/FeatureServer
+17,Percent of Female-Headed Households with Children Under 18,femhhsXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Femhhs/FeatureServer
+18,Percent of Households with Children Under 18,famXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Fam/FeatureServer
+19,Average Household Size,hhsizeXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hhsize/FeatureServer
+20,Median Household Income,mhhiXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Mhhi/FeatureServer
+21,"Percent of Households Earning Less than $25,000",hh25incXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hh25inc/FeatureServer
+22,"Percent of Households Earning $25,000 to $40,000",hh40incXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hh40inc/FeatureServer
+23,"Percent of Households Earning $40,000 to $60,000",hh60incXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hh60inc/FeatureServer
+24,"Percent of Households Earning $60,000 to $75,000",hh75incXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hh75inc/FeatureServer
+25,"Percent of Households Earning More than $75,000",hhm75XX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hhm75/FeatureServer
+26,Inequality Index,,Census Demographics,
+27,Percent of Family Households Living Below the Poverty Line,hhpovXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hhpov/FeatureServer
+28,Percent of Children Living Below the Poverty Line,hhchpovXX,Census Demographics,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hhchpov/FeatureServer
+29,Median Price of Homes Sold,saleprXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Salepr/FeatureServer
+30,Median Number of Days on the Market,domXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Dom/FeatureServer
+31,Number of Homes Sold,shomesXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Shomes/FeatureServer
+32,Percentage of Housing Units that are Owner-Occupied,ownrocXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Ownroc/FeatureServer
+33,Percentage of Properties Under Mortgage Foreclosure,foreXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Fore/FeatureServer
+34,Percentage of Residential Properties that are Vacant and Abandoned,vacantXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Vacant/FeatureServer
+35,Percentage of Residential Properties with Housing Violations (Excluding Vacants),vioXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Vio/FeatureServer
+36,"Percentage of Properties with Rehabilitation Permits Exceeding $5,000",resrehabXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Resrehab/FeatureServer
+37,Total Number of Residential Properties,totalresXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Totalres/FeatureServer
+38,Percentage of Residential Sales for Cash,cashsaXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Cashsa/FeatureServer
+39,Percentage of Residential Sales in Foreclosure (REO),reosaXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Reosa/FeatureServer
+40,Percentage of Residential Tax Lien Sales,taxlienXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Taxlien/FeatureServer
+41,"Number of Demolition Permits per 1,000 Residential Properties",demperXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Demper/FeatureServer
+42,"Number of New Construction Permits per 1,000 Residential Properties",constperXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Constper/FeatureServer
+43,Percentage of Vacant Properties Owned by Baltimore City,baltvacXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Baltvac/FeatureServer
+44,Affordability Index - Mortgage,affordmXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Affordm/FeatureServer
+45,Affordability Index - Rent,affordrXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Affordr/FeatureServer
+46,"Number of Historic Tax Credits per 1,000 Residential Units",histaxXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Histax/FeatureServer
+47,"Number of Homestead Tax Credits per 1,000 Residential Units",homtaxXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Homtax/FeatureServer
+48,"Number of Homeowner's Tax Credits per 1,000 Residential Units",owntaxXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Owntax/FeatureServer
+49,Percent Residential Properties that do Not Receive Mail,nomailXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Nomail/FeatureServer
+50,"Part 1 Crime Rate per 1,000 Residents",crimeXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Crime/FeatureServer
+51,"Daytime Crime Rate per 1,000 Population",,Crime and Safety,
+52,"Violent Crime Rate per 1,000 Residents",violXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Viol/FeatureServer
+53,"Property Crime Rate per 1,000 Residents",propXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Prop/FeatureServer
+54,"Domestic Violence Calls For Service per 1,000 Residents",domvioXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Domvio/FeatureServer
+55,"Juvenile Arrest Rate per 1,000 Juveniles",juvarrXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Juvarr/FeatureServer
+56,"Juvenile Arrest Rate for Violent Offenses per 1,000 Juveniles",juvviolXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Juvviol/FeatureServer
+57,"Juvenile Arrest Rate for Drug-Related Offenses per 1,000 Juveniles",juvdrugXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Juvdrug/FeatureServer
+58,"Number of Shootings per 1,000 Residents",shootXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Shoot/FeatureServer
+59,"Number of Gun-Related Homicides per 1,000 Residents",gunhomXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Gunhom/FeatureServer
+60,"Number of Common Assault Calls for Service per 1,000 Residents",casltXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Caslt/FeatureServer
+61,"Number of Narcotics Calls for Service per 1,000 Residents",narcXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Narc/FeatureServer
+62,"Number of Automobile Accident Calls for Service per 1,000 Residents",caraccXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Caracc/FeatureServer
+63,"Rate of Fire and EMS Calls for Service per 1,000 Residents",,Crime and Safety,
+64,Average Fire and EMS Response Time,,Crime and Safety,
+65,Number of Children Enrolled in Head Start Programs,,Education and Youth,
+66,Number of Students Ever Attended 1st - 5th Grade,eattendXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Eattend/FeatureServer
+67,Number of Students Ever Attended 6th - 8th Grade,mattendXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Mattend/FeatureServer
+68,Number of Students Ever Attended 9th - 12th Grade,hsattendXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hsattend/FeatureServer
+69,Percent of Students Enolled in CTE Programs,,Education and Youth,
+70,Percent of Students that are African American (non-Hispanic),aastudXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Aastud/FeatureServer
+71,Percent of Students that are White (non-Hispanic),wstudXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Wstud/FeatureServer
+72,Percent of Students that are Hispanic,hstudXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hstud/FeatureServer
+73,Percent of 1st-5th Grade Students that are Chronically Absent (Missing at least 20 days),abseXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Abse/FeatureServer
+74,Percent of 6th-8th Grade Students that are Chronically Absent (Missing at least 20 days),absmdXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Absmd/FeatureServer
+75,Percent of 9th-12th Grade Students that are Chronically Absent (Missing at least 20 days),abshsXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Abshs/FeatureServer
+76,Percentage of Students Suspended or Expelled During School Year,suspXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Susp/FeatureServer
+77,Percentage of Students Receiving Free or Reduced Meals,farmsXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Farms/FeatureServer
+78,Percentage of Students Enrolled in Special Education Programs,spedXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Sped/FeatureServer
+79,Percentage of Students Enrolled in After School Programs,,Education and Youth,
+80,Kindergarten School Readiness,readyXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Ready/FeatureServer
+81,Percentage of 3rd Grade Students Passing MSA Math,math3XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Math3/FeatureServer
+82,Percentage of 3rd Grade Students Passing MSA Reading,read3XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Read3/FeatureServer
+83,Percentage of 5th Grade Students Passing MSA Math,math5XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Math5/FeatureServer
+84,Percentage of 5th Grade Students Passing MSA Reading,read5XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Read5/FeatureServer
+85,Percentage of 8th Grade Students Passing MSA Math,math8XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Math8/FeatureServer
+86,Percentage of 8th Grade Students Passing MSA Reading,read8XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Read8/FeatureServer
+87,Percentage of Students Passing H.S.A. English ,hsaengXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hsaeng/FeatureServer
+88,Percentage of Students Passing H.S.A. Biology,hsabioXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hsabio/FeatureServer
+89,Percentage of Students Passing H.S.A. Government,hsagovXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hsagov/FeatureServer
+90,Percentage of Students Passing H.S.A. Algebra,hsaalgXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hsaalg/FeatureServer
+91,High School Dropout/Withdrawl Rate,dropXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Drop/FeatureServer
+92,High School Completion Rate,complXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Compl/FeatureServer
+93,Persons Receiving a GED,,Education and Youth,
+94,Percent of Students Switching Schools within School Year,sclswXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Sclsw/FeatureServer
+95,Percentage of Students Attending Zoned School ,,Education and Youth,
+96,Average Distance Travelled to School (6th-8th Grade),,Education and Youth,
+97,Average Distance Travelled to School (9th-12th Grade),,Education and Youth,
+98,Percentage of Population aged 16-19 in School and/or Employed,sclempXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Sclemp/FeatureServer
+99,"Teen Pregnancy Rate per 1,000 Females (aged 15-19)",teenbirXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Teenbir/FeatureServer
+100,Percent of Births Delivered at Term (37-42 Weeks),termbirXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Termbir/FeatureServer
+101,Percent of Babies Born with a Satisfactory Birth Weight,birthwtXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Birthwt/FeatureServer
+102,Percent of Births Where the Mother Received Early Prenatal Care (First Trimester),prenatalXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Prenatal/FeatureServer
+103,Number of Children (aged 0-6) Tested for Elevated Blood Lead Levels,leadtestXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Leadtest/FeatureServer
+104,Percent of Children (aged 0-6) with Elevated Blood Lead Levels,ebllXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Ebll/FeatureServer
+105,"Percent of Lead Violations per 1,000 Residential Units",,Children and Family Health,
+106,Percent of Families Receiving TANF,tanfXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Tanf/FeatureServer
+107,Percent of Persons receiving SNAP,,Children and Family Health,
+108,Fetal Mortality Rate,,Children and Family Health,
+109,"Liquor Outlet density (per 1,000 Residents)",liquorXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Liquor/FeatureServer
+110,"Fast Food Outlet Density (per 1,000 Residents)",fastfdXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Fastfd/FeatureServer
+111,Number of Persons calling UWCM 211 for Health-Related Services ,,Children and Family Health,
+112,"Rate of STDs per 1,000 Residents (Chlamydia, Gonorrhea, and Syphilis)",,Children and Family Health,
+113,"Rate of HIV/AIDS per 1,000 Residents",,Children and Family Health,
+114,Life Expectancy,lifexpXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Lifexp/FeatureServer
+115,Infant Mortality Rate,mort1_XX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Mort1_/FeatureServer
+116,Mortality by Age (1-14 Years old),mort14_XX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Mort14_/FeatureServer
+117,Mortality by Age (15-24 Years old),mort24_XX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Mort24_/FeatureServer
+118,Mortality by Age (25-44 Years old),mort44_XX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Mort44_/FeatureServer
+119,Mortality by Age (45-64 Years old),mort64_XX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Mort64_/FeatureServer
+120,Mortality by Age (65-84 Years old),mort84_XX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Mort84_/FeatureServer
+121,Mortality by Age (85 and over),mort85_XX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Mort85_/FeatureServer
+122,"Number of Overdose Calls for Service per 1,000 Residents",overdXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Overd/FeatureServer
+123,Causes of Death (analysis of top causes),,Children and Family Health,
+124,Causes of Death (analysis of top causes),,Children and Family Health,
+125,Causes of Death (analysis of top causes),,Children and Family Health,
+126,Causes of Death (analysis of top causes),,Children and Family Health,
+127,Percent of persons with health insurance,,Children and Family Health,
+128,"Number of Persons with Library Cards per 1,000 Residents",libcardXX,Arts and Culture,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Libcard/FeatureServer
+129,"Number of Event Permits Requested per 1,000 Residents",artevntXX,Arts and Culture,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Artevnt/FeatureServer
+130,"Public Art per 1,000 Residents",publartxx,Arts and Culture,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Publart/FeatureServer
+131,"Number of Businesses that are Arts-Related per 1,000 Residents",artbusXX,Arts and Culture,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Artbus/FeatureServer
+132,Total Employment in Arts-Related Businesses,artempXX,Arts and Culture,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Artemp/FeatureServer
+133,Percentage of Businesses that are Non-Profits,,Arts and Culture,
+134,Percent Population 16-64 Employed,emplXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Empl/FeatureServer
+135,Percent Population 16-64 Unemployed and Looking for Work,unemplXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Unempl/FeatureServer
+136,Percent Population 16-64 Not in Labor Force,nilfXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Nilf/FeatureServer
+137,Unemployment Rate,unemprXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Unempr/FeatureServer
+138,Percent Population (25 Years and over) With Less Than a High School Diploma or GED,lesshsXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Lesshs/FeatureServer
+139,Percent Population (25 Years and over) With High School Diploma and Some College or Associates Degree,hsdiplXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hsdipl/FeatureServer
+140,Percent Population (25 Years and over) with a Bachelor's Degree or Above,bahigherXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Bahigher/FeatureServer
+141,Total Number of Commercial Properties,compropXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Comprop/FeatureServer
+142,"Percent of Commercial Properties with Rehab Permits Above $5,000",crehabXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Crehab/FeatureServer
+143,Total Number of Businesses,numbusXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Numbus/FeatureServer
+144,Total Number of Employees,totempXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Totemp/FeatureServer
+145,Number of Businesses with Under 50 Employees,smlbusXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Smlbus/FeatureServer
+146,Percent of Employed Residents who Work Outside the City,wrkoutXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Wrkout/FeatureServer
+147,Total Dollar Amount Invested in Small Businesses per 50 Businesses,smlinvstXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Smlinvst/FeatureServer
+148,CRA data (residential and commercial),,Workforce and Economic Development,
+149,"Number of Banks and Bank Branches per 1,000 Residents",banksXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Banks/FeatureServer
+150,Percent of Businesses that are 1 Year old or less,biz1_XX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Biz1_/FeatureServer
+151,Percent of Businesses that are 2 Years old or less,biz2_XX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Biz2_/FeatureServer
+152,Percent of Businesses that are 4 Years old or less,biz4_XX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Biz4_/FeatureServer
+153,Percent of Adult Population on Parole/Probation,prbprlXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Prbprl/FeatureServer
+154,Percent of CSA that is Either Low or Moderate income (by Census tract),,Workforce and Economic Development,
+155,"Percent of persons in MOED training programs (per 1,000 Residents)",,Workforce and Economic Development,
+156,Percent of Households with No Internet at Home,nohhintXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Nohhint/FeatureServer
+157,Number of Businesses by Selected Neighborhood Industry (NAICS Sectors),neiindXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Neiind/FeatureServer
+158,"Neighborhood Businesses per 1,000 Residents (NAICS Sectors)",neibusXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Neibus/FeatureServer
+159,Total number of Employees by Selected Neighborhood Industry (NAICS Sectors),neiempXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Neiemp/FeatureServer
+160,Percent of Population (Over the age of 18) Who are Registered to Vote,regvoteXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Regvote/FeatureServer
+161,Percent Population (Over the age of 18) Who Voted in the General Election,votedXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Voted/FeatureServer
+162,"Rate of Dirty Streets and Alleys Reports per 1,000 Residents",dirtystXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Dirtyst/FeatureServer
+163,"Rate of Clogged Storm Drain Reports per 1,000 Residents",cloggedXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Clogged/FeatureServer
+164,Percent of Population that Drove Alone to Work,drvaloneXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Dralone/FeatureServer
+165,Percent of Population that Carpool to Work,carpoolXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Carpool/FeatureServer
+166,Percent of Population that Uses Public Transportation to Get to Work,pubtranXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Pubtran/FeatureServer
+167,Percent of Population that Walks to Work,walkedXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Walked/FeatureServer
+168,Percent of Employed Population with Travel Time to Work of 0-14 Minutes,trav14_XX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Trav14_/FeatureServer
+169,Percent of Employed Population with Travel Time to Work of 15-29 Minutes,trav29_XX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Trav29_/FeatureServer
+170,Percent of Employed Population with Travel Time to Work of 30-44 Minutes,trav44_XX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Trav44_/FeatureServer
+171,Percent of Employed Population with Travel Time to Work of 45 Minutes and Over,trav45_XX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Trav45_/FeatureServer
+172,Percent of Area Covered by Trees,treesXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Trees/FeatureServer
+173,Air Quality Risk,,Sustainability,
+174,Percent of Area Covered by Impervious Surface,,Sustainability,
+175,Number of Community Managed Open Spaces,cmosXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Cmos/FeatureServer
+176,Median Daily Water Consumption,watercXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Waterc/FeatureServer
+177,"Number of Downspout Disconnections per 1,000 Residences",,Sustainability,
+178,Number of Public Trashcans,,Sustainability,
+179,"Rate of Sewer/Water Main Breaks per 1,000 Residents",,Sustainability,
+180,Natural gas utilization,,Sustainability,
+181,Energy Use,,Sustainability,
+182,Percent of Residences Heated by Utility Gas,heatgasXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Heatgas/FeatureServer
+183,Percent of Residences Heated by Electricity,elheatXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Elheat/FeatureServer
+184,Percent of Households with No Vehicles Available,novhclXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Novhcl/FeatureServer
+185,Number of Photovoltaic/Solar Permits,,Sustainability,
+186,Percent of Homes Weatherized,weatherXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Weather/FeatureServer
+187,Walk Score,wlkscXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Wlksc/FeatureServer
+188,Aggregate Number of Community Assets,,Sustainability,
+189,"Number of daily bus stop loadings per 1,000 residents",busloadXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Busload/FeatureServer
+190,"Number of Bike Racks per 1,000 Residents",,Sustainability,
+191,Road Quality,,Sustainability,
+192,Number of Miles of Bike Lanes,bklnXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Bkln/FeatureServer
+193,Percent of persons by occupation classification (major classifications),,Workforce and Economic Development,
+194,"Percent of Population Using Other Means to Commute to Work (Taxi, Motorcycle, Bicycle, Other)",othrcomXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Othercom/FeatureServer
+195,Number of Students Officially Enrolled in 1st - 5th Grade,eenrolXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Eenrol/FeatureServer
+196,Number of Students Officially Enrolled in 6th - 8th Grade,menrolXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Menrol/FeatureServer
+197,Number of Students Officially Enrolled in 9th - 12th Grade,hsenrolXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hsenrol/FeatureServer
+198,Average Healthy Food Availability Index,hfaiXX,Children and Family Health,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hfai/FeatureServer
+199,Number of Trees Planted,treeplntXX,Sustainability,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Treeplnt/FeatureServer
+200,"Rate of Housing Vouchers per 1,000 Rental Units",hcvhouseXX,Housing and Community Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Hcvhouse/FeatureServer
+201,"Rate of Businesses in the Creative Economy per 1,000 Residents",cebusXX,Arts and Culture,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Cebus/FeatureServer
+202,Number of Employees in the Creative Economy,ceempXX,Arts and Culture,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Ceemp/FeatureServer
+203,Number of Public Murals,muralsXX,Arts and Culture,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Murals/FeatureServer
+204,Number of Total Jobs Filled by Employees ,totjobsXX,Workforce and Economic Development,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Totjobs/FeatureServer
+205,"Number of Arrests per 1,000 Residents",arrestXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Arrests/FeatureServer
+206,Percentage of 3rd Grade Students who Met or Exceeded PARCC Math,pmath3XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Pmath3/FeatureServer
+207,Percentage of 3rd Grade Students who Met or Exceeded PARCC Reading,pread3XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Pread3/FeatureServer
+208,Percentage of 5th Grade Students who Met or Exceeded PARCC Math,pmath5XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Pmath5/FeatureServer
+209,Percentage of 5th Grade Students who Met or Exceeded PARCC Reading,pread5XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Pread5/FeatureServer
+210,Percentage of 8th Grade Students who Met or Exceeded PARCC Math,pmath8XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Pmath8/FeatureServer
+211,Percentage of 8th Grade Students who Met or Exceeded PARCC Reading,pread8XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Pread8/FeatureServer
+212,Percentage of Students who Met or Exceeded PARCC Algebra I,palg1XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Palg1/FeatureServer
+213,Percentage of Students who Met or Exceeded PARCC Algebra II,palg2XX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Palg2/FeatureServer
+214,Kindergarten Readiness,kraXX,Education and Youth,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Kra/FeatureServer
+215,"Rate of Street Light Outages per 1,000 Residents",lightsXX,Crime and Safety,https://services1.arcgis.com/mVFRs7NF4iFitgbY/arcgis/rest/services/Lights/FeatureServer
